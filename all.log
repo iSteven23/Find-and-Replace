@@ -1,0 +1,6 @@
+2019-10-01 18:54:23.203 [AWT-EventQueue-0] INFO  log - Creating frame
+2019-10-01 18:54:23.300 [AWT-EventQueue-0] INFO  log - Creating panels
+2019-10-01 18:54:36.346 [AWT-EventQueue-0] INFO  log - started actionPerformed Action Event
+2019-10-01 18:54:36.346 [AWT-EventQueue-0] INFO  log - Browse button pressed
+2019-10-01 18:54:42.769 [AWT-EventQueue-0] INFO  log - started actionPerformed Action Event
+2019-10-01 18:54:42.770 [AWT-EventQueue-0] INFO  log - Browse button pressed
